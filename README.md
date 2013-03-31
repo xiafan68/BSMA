@@ -2,7 +2,7 @@ Benchmark for Social Media Analysis (BSMA)
 ====
   bsma.users@gmail.com
 
-  BSMA, benchmark for social media analysis, was used as the benchmark in WISE 2012 Challenge (http://www.wise-society.org/2012/). 
+  BSMA, benchmark for social media analysis, was used as the benchmark in WISE 2012 Challenge (http://www.wise2012.cs.ucy.ac.cy/challenge.html). 
   
   There are many systems been deployed or being developed for social media analysis. It is difficult to decide which system is better than others, partially because the features differ between systems, and partially because there is not an easy way to compare the performance of one system versus another. The goal of the BSMA project is to develop a framework and common set of workloads for evaluating the performance of different systems dealing with social media analysis. 
   
