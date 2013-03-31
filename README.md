@@ -1,6 +1,6 @@
 Benchmark for Social Media Analysis (BSMA)
 ====
-  bsma.users@gmail.com
+  weijinxianforyou@gmail.com
 
   BSMA, benchmark for social media analysis, was used as the benchmark in WISE 2012 Challenge (http://www.wise2012.cs.ucy.ac.cy/challenge.html). 
   
